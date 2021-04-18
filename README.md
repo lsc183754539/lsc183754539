@@ -1,6 +1,6 @@
 <h2 align="center">👋 来啦！老弟！</h2>
 <p align="center">
-  <a href="https://github.com/lsc183754539"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
+  <a href="https://github.com/lsc183754539"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://blog.csdn.net/qq_37691298"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 <hr/>
