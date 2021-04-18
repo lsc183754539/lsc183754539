@@ -41,7 +41,7 @@
 
 <br/>
 
-[![lsc183754539's contribution graph as a Game of Life](https://github4life.herokuapp.com/lsc183754539.gif)](https://github4life.herokuapp.com/lsc183754539)
+[![lsc183754539's contribution graph as a Game of Life](https://github4life.herokuapp.com/lsc183754539.gif)](https://github4life.herokuapp.com/lsc183754539.gif)
 
 
 
