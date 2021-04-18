@@ -13,14 +13,11 @@
 - ⚡ Fun fact: 小心我拿洛阳铲挖你家坟.
 
 
-<summary>GitHub统计信息</summary>
-
-<br/>  
-
+<p align="center">
 <a href="https://github.com/lsc183754539/lsc183754539">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lsc183754539&show_icons=true" />
 </a>
-<br/>
+</p>
 
 <!--
 **lsc183754539/lsc183754539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
