@@ -6,45 +6,21 @@
 
 <img align='right' src="https://profile-counter.glitch.me/lsc183754539/count.svg" alt="访客数量"/>
 
-- 😄**后端** C，C++，Java，Python
-- 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL
-- 😝**框架** SpringBoot，Django
-- 😛**设计** Photoshop，Audition，Premiere，DaVinci
-- 😧**都不精通**
+- 🔭 I’m currently working on Safe.
+- 🌱 I’m currently learning everything.
+- 🤔 I’m looking for help with Job.
+- 📫 How to reach me: [pasalai@qq.com](mailto://pasalai@qq.com)
+- ⚡ Fun fact: 小心我拿洛阳铲挖你家坟.
 
 
 <summary>GitHub统计信息</summary>
 
 <br/>  
 
-> 
-> 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
-
 <a href="https://github.com/lsc183754539/lsc183754539">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lsc183754539&show_icons=true" />
 </a>
 <br/>
-
----
-
-*近期更新的仓库*
-
-<a href="https://github.com/lsc183754539/DVWA-ChineaseSample-RE_Bootstrap">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lsc183754539&repo=DVWA-ChineaseSample-RE_Bootstrap" />
-</a>    
-<a href="https://github.com/lsc183754539/ZhengMatch">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lsc183754539&repo=ZhengMatch" />
-</a>
-
-<br/>
-
-<br/>
-
-[![lsc183754539's contribution graph as a Game of Life](https://github4life.herokuapp.com/lsc183754539.gif)](https://github4life.herokuapp.com/lsc183754539.gif)
-
-
-
 
 <!--
 **lsc183754539/lsc183754539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
