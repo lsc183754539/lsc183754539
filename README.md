@@ -6,13 +6,13 @@
 <hr/>
 
 <img align='right' src="https://profile-counter.glitch.me/lsc183754539/count.svg" alt="访客数量"/>
-<p align="center">
+
 - 🔭 I’m currently working on Safe.
 - 🌱 I’m currently learning everything.
 - 🤔 I’m looking for help with Job.
 - 📫 How to reach me: [pasalai@qq.com](mailto://pasalai@qq.com)
 - ⚡ Fun fact: 小心我拿洛阳铲挖你家坟.
-</p>
+
 <hr/>
 
 <p align="center">
