@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning everything.
 - 🤔 I’m looking for help with Job.
 - 📫 How to reach me: [pasalai@qq.com](mailto://pasalai@qq.com)
-- ⚡ Fun fact: 小心我拿洛阳铲挖你家坟.
+- ⚡ Kiss Me Please: https://blog.hwact.org
 
 <hr/>
 
