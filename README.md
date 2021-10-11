@@ -7,9 +7,9 @@
 
 <img align='right' src="https://profile-counter.glitch.me/lsc183754539/count.svg" alt="访客数量"/>
 
-- 🔭 I’m currently working on Safe.
+- 🔭 I’m working on 301.
 - 🌱 I’m currently learning everything.
-- 🤔 I’m looking for help with Job.
+- 🤔 I’m looking for help with 女朋友.
 - 📫 How to reach me: [pasalai@qq.com](mailto://pasalai@qq.com)
 - ⚡ Kiss Me Please: https://blog.hwact.org
 
