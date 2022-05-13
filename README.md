@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning everything.
 - 🤔 I’m looking for help with 女朋友.
 - 📫 How to reach me: [pasalai@qq.com](mailto://pasalai@qq.com)
-- ⚡ Kiss Me Please: https://blog.hwact.org
+- ⚡ Kiss Me Please: https://lsc183754539.github.io
 
 <hr/>
 
